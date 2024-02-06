@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LayoutLoginAndSignUp</string>
+    <string name="login">Login</string>
+    <string name="login_to_get_started">Login to get started</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="create_account">Create Account</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+</resources>
